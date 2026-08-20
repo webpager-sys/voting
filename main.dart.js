@@ -51114,7 +51114,7 @@ B.aBR.prototype={
 $0(){return B.p(t.N,t.S)},
 $S:298}
 B.aBX.prototype={
-$1(a){var s,r,q=null,p=B.G_("St Mary's Cathedral Election Results",q,q,q)
+$1(a){var s,r,q=null,p=B.G_(" Election Results",q,q,q)
 p=B.b([new B.Pn(q,p,0),B.G_("Completed voters: "+this.a.f,q,q,q)],t.n_)
 s=this.b
 r=B.l(s).i("dE<1,2>")
